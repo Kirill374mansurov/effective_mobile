@@ -1,0 +1,6 @@
+URL_HOME_PAGE = 'https://effective-mobile.ru/#main'
+URL_ABOUT = 'https://effective-mobile.ru/#about'
+URL_MOREINFO = 'https://effective-mobile.ru/#moreinfo'
+URL_CASES = 'https://effective-mobile.ru/#cases'
+URL_REVIEWS = 'https://effective-mobile.ru/#Reviews'
+URL_CONTACTS = 'https://effective-mobile.ru/#contacts'

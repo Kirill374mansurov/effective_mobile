@@ -1,0 +1,5 @@
+LOCATOR_ABOUT = 'О нас'
+LOCATOR_MOREINFO = 'Услуги'
+LOCATOR_CASES = 'Проекты'
+LOCATOR_REVIEWS = 'Отзывы'
+LOCATOR_CONTACTS = 'Контакты'
