@@ -38,6 +38,10 @@ venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
+```
+playwright install
+```
+
 Запуск тестов локально через браузер хром (браузер можно поменять на любой):
 
 ```
